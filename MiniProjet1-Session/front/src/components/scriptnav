@@ -1,0 +1,36 @@
+import { onMounted, onUnmounted, ref } from "vue";
+
+let lastScrollPosition = 0;
+const isTopOfPage = ref(true); // Ajoutez une référence pour la position du scroll
+
+onMounted(() => {
+  const nav = document.querySelector(".navbar");
+
+  if (!nav) return; // Vérifiez si l'élément existe avant d'agir
+
+  const handleScroll = () => {
+    const currentScroll = window.scrollY;
+    if (currentScroll > 80) {
+      // Vérifier si on est tout en haut de la page
+
+      // Si on fait défiler vers le bas, on cache la barre de navigation
+      if (currentScroll > lastScrollPosition ) {
+        nav.classList.add("hidden");
+      }
+      // Si on fait défiler vers le haut, on affiche la barre de navigation progressivement
+      else if (currentScroll < lastScrollPosition) {
+        nav.classList.remove("hidden");
+      }
+    }
+
+    // Met à jour la position du scroll
+    lastScrollPosition = currentScroll;
+  };
+
+  window.addEventListener("scroll", handleScroll);
+
+  // Nettoyez l'écouteur lors du démontage
+  onUnmounted(() => {
+    window.removeEventListener("scroll", handleScroll);
+  });
+});

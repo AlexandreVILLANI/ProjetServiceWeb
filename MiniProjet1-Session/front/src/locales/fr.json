@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "Plongez au cœur de Belforce, un évènement où l’histoire et l’art s’entrelacent harmonieusement !",
+    "subtitle": "Rejoignez le festival Belforce : du 9 au 25 Avril 2025"
+  },
+  "welcome": {
+    "message": "Découvrez ",
+    "message2" : "Belfort ",
+    "message3" : "autrement avec le Festival ",
+    "message4" : "Belforce",
+    "message5" : ", le rendez-vous incontournable pour célébrer l’",
+    "message6" : "art ",
+    "message7" : "et l’",
+    "message8" : "histoire",
+    "message9" : "!",
+    "message10" : " De la Citadelle classée au patrimoine mondial de l’UNESCO aux fresques murales éclatantes, laissez-vous guider à travers des trésors ",
+    "message11" : "culturels",
+    "message12" : " et des expériences interactives",
+    "message13" : " inoubliables."
+  },
+  "programme":{
+    "programme" : "AU PROGRAMME",
+    "restauration": "RESTAURATION",
+    "presentation-programme": "Lors de votre visite, laissez-vous séduire par une aventure culinaire où chaque adresse raconte une histoire. Des saveurs exotiques du Tajmahal aux délices traditionnels du Relais des Forges, en passant par les créations surprenantes du Pochon Magique, il y en a pour tous les goûts.",
+    "culture-patrimoine" : "CULTURE ET PATRIMOINE",
+    "presentation-programme2": "Explorez la richesse patrimoniale de Belfort avec le Marché Fréry, la mystérieuse Grotte de Cravanche, l’impressionnante Citadelle et l’incontournable Lion de Belfort. Des lieux emblématiques pour un voyage dans le temps unique.",
+    "sport": "SPORT",
+    "presentation-programme3": "Entre l’escalade, le VTT, la course d’orientation et le tir à l’arc, le Territoire de Belfort offre une multitude d’activités sportives pour tous les aventuriers.",
+    "musique-concert" : "MUSIQUE ET CONCERT",
+    "presentation-programme4": "Du jazz du 22 St. Quartet aux shows spectaculaires de Imagine Dragons ou Eminem, en passant par les talents locaux comme What's up Doc, laissez-vous emporter par une programmation musicale éclectique et inoubliable."
+  },
+  "carte": {
+    "evenement": "L'ÉVÉNEMENT"
+  },
+  "prestataire": "PRESTATAIRES",
+  "navbar": {
+    "accueil": "ACCUEIL",
+    "activites": "ACTIVITÉS",
+    "carte": "CARTE",
+    "boutique": "BOUTIQUE"
+  },
+  "footer": {
+    "liens-rapide": "Liens rapides",
+    "accueil": "Accueil",
+    "activités": "Activités",
+    "carte": "Carte",
+    "boutique": "Boutique",
+    "histoire": "Histoire",
+    "liens-utiles": "Liens utiles",
+    "mentions-légales": "Mentions légales",
+    "Politique": "Politique de confidentialité",
+    "Condition": "Condition générale d'utilisation",
+    "Contact": "Nous contacter",
+    "Partenaire": "Devenir partenaire",
+    "Newsletter": "Newsletter",
+    "abonner": "Abonnez-vous à notre newsletter pour ne rater aucune activité !",
+    "sabonner": "S'abonner"
+  },
+
+  "ActivitésAccueil" : {
+    "culture-patrimoine" : "CULTURE ET PATRIMOINE",
+    "sport" : "SPORTS",
+    "loisir-divertissement" : "LOISIR ET DIVERTISSEMENT",
+    "restauration" : "RESTAURATION",
+    "musique-concert" : "MUSIQUE ET CONCERT"
+  },
+
+
+  "Activités": {
+    "prix" : "Prix maximum :",
+    "exemple" : "exemple 50",
+    "réinitialiser" : "Réinitialiser",
+    "àpartirde" : "À partir de",
+    "réserver" : "Réserver"
+  },
+
+  "ReservationActivite": {
+    "prix": "Prix de la place :",
+    "date" : "Choisissez la date :",
+    "dateEvenement" : "Cette événement aura lieu le :",
+    "de" : "de",
+    "à" : "à",
+    "ilreste" : "Il reste",
+    "placesdisponibles" : "places disponibles",
+    "nbplacesréserver" : "Nombre de places à réserver :",
+    "réserveraumoins" : "Il faut réserver au moins une place",
+    "choisirdate" : "Il faut choisir une date",
+    "plusassezplace" : "Il ne reste plus assez de places",
+    "vousréservez" : "Vous réservez ",
+    "totalplaces" : "places pour un total de",
+    "ajouterpanier" : "Ajouter au panier",
+    "ajouterpanierpayer" : "Ajouter au panier et payer",
+    "ajouter" : "Vous avez ajoutez",
+    "danspanier" : "places de cette activité dans votre panier.",
+    "panier" : "Panier",
+    "avis" : "Avis",
+    "mettreavis" : "Mettre un avis",
+
+    "confirmer-reservation" : "Confirmer reservation",
+    "appuyerpourconfirmer" : "Appuyer sur confirmer pour finaliser la réservation.",
+    "confirmer" : "Confirmer"
+
+  },
+
+  "boutique" : {
+    "prixmax" : "Prix maximum :",
+    "typearticle" : "Type d'article :",
+    "choixtype" : "Choisissez un type",
+    "porteclé" : "Porte clé",
+    "peluche" : "Peluche",
+    "gourde" : "gourde",
+    "sac" : "sac",
+    "réinitialiser" : "Réinitialiser",
+    "aucunarticle" : "Aucun article ne correspond à votre recherche.",
+    "àpartirde": "à partir de",
+    "réserver" : "Réserver"
+  },
+  "achatboutique": {
+    "nom_article": "Nom de l'article",
+    "description_article": "Description de l'article",
+    "image_alt": "Image de l'article",
+    "stock_rupture": "Cet article est en rupture de stock",
+    "stock_disponible": "Nombre d'articles en stock :",
+    "quantite_label": "Quantité que vous voulez acheter :",
+    "payment_label": "Moyen de paiement utilisé :",
+    "payment_argent": "Argent",
+    "payment_fidelite": "Points de fidélité",
+    "points_fidelite_dispo": "Vous avez {points} points de fidélité",
+    "prix_article": "Prix de l'article : {prix} €",
+    "total_prix": "Total : {total} €",
+    "prix_article_point": "Prix de l'article : {prix} points",
+    "total_prix_point": "Total : {total} points",
+    "ajouter_panier": "Ajouter au panier",
+    "ajouter_panier_payer": "Ajouter au panier et payer",
+    "panier": "Panier"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "header": {
+    "title": "Dive into the heart of Belforce, an event where history and art intertwine harmoniously!",
+    "subtitle": "Join the Belforce Festival: April 9-25, 2025"
+  },
+  "welcome": {
+    "message": "",
+    "message": "Discover ",
+    "message2" : "Belfort ",
+    "message3" : "in a new way with the ",
+    "message4" : "Belforce",
+    "message5" : " Festival, the must-attend event to celebrate ",
+    "message6" : "art ",
+    "message7" : " and ",
+    "message8" : "history",
+    "message9" : "!",
+    "message10" : "From the UNESCO World Heritage-listed Citadel to the vibrant murals, let us guide you through unforgettable  ",
+    "message11" : "cultural",
+    "message12" : " treasures and",
+    "message13" : " interactive experiences."
+  },
+  "programme":{
+    "programme" : "ON PROGRAM",
+    "restauration": "RESTAURATION",
+    "presentation-programme": "During your visit, indulge in a culinary adventure where each address tells a story. From the exotic flavors of Tajmahal to the traditional delights of Relais des Forges, and the surprising creations of Pochon Magique, there's something for everyone.",
+    "culture-patrimoine" : "CULTURE & PATRIMOINE",
+    "presentation-programme2" : "Explore Belfort's rich heritage with the Marché Fréry, the mysterious Cravanche Cave, the impressive Citadel, and the unmissable Lion of Belfort. These iconic sites offer a unique journey through time.",
+    "sport": "SPORT",
+    "presentation-programme3": "Between climbing, mountain biking, orienteering and archery, the Territoire de Belfort offers a multitude of sporting activities for all adventurers.",
+    "musique-concert" : "MUSIQUE & CONCERT",
+    "presentation-programme4" : "From the jazz of the 22 St. Quartet to spectacular shows by Imagine Dragons and Eminem, to local talent like What's up Doc, let yourself be swept away by an eclectic and unforgettable musical program."
+
+  },
+  "carte": {
+    "evenement": "THE EVENT"
+  },
+  "prestataire": "PROVIDERS",
+
+  "navbar": {
+    "accueil": "HOME",
+    "activites": "ACTIVITIES",
+    "carte": "MAP",
+    "boutique": "SHOP"
+  },
+
+  "footer": {
+    "liens-rapide": "Quick Links",
+    "accueil": "Home",
+    "activités": "Activities",
+    "carte": "Map",
+    "boutique": "Shop",
+    "histoire": "History",
+    "liens-utiles": "Useful Links",
+    "mentions-légales": "Legal Notice",
+    "Politique": "Privacy Policy",
+    "Condition": "Terms of Service",
+    "Contact": "Contact Us",
+    "Partenaire": "Become a Partner",
+    "Newsletter": "Newsletter",
+    "abonner": "Subscribe to our newsletter to never miss an event!",
+    "sabonner": "Subscribe"
+  },
+
+  "ActivitésAccueil": {
+    "culture-patrimoine": "CULTURE AND HERITAGE",
+    "sport": "SPORTS",
+    "loisir-divertissement": "LEISURE AND ENTERTAINMENT",
+    "restauration": "RESTAURATION",
+    "musique-concert": "MUSIC AND CONCERTS"
+  },
+
+  "Activités": {
+    "prix": "Maximum price:",
+    "réinitialiser": "Reset",
+    "àpartirde": "Starting from",
+    "réserver": "Book"
+  },
+
+  "ReservationActivite": {
+    "prix": "Ticket price:",
+    "date": "Choose a date:",
+    "dateEvenement": "This event will take place on:",
+    "de": "from",
+    "à": "to",
+    "ilreste": "There are",
+    "placesdisponibles": "available spots",
+    "nbplacesréserver": "Number of tickets to book:",
+    "réserveraumoins": "You must book at least one ticket",
+    "choisirdate": "You must select a date",
+    "plusassezplace": "Not enough tickets left",
+    "vousréservez": "You are booking",
+    "totalplaces": "tickets for a total of",
+    "ajouterpanier": "Add to cart",
+    "ajouterpanierpayer": "Add to cart and pay",
+    "ajouter": "You have added",
+    "danspanier": "tickets for this activity to your cart.",
+    "panier": "Cart",
+    "avis" : "Review",
+    "mettreavis": "Leave a review",
+
+    "confirmer-reservation": "Confirm reservation",
+    "appuyerpourconfirmer": "Press confirm to complete the reservation.",
+    "confirmer": "Confirm"
+
+  },
+
+  "boutique": {
+    "prixmax": "Maximum price:",
+    "typearticle": "Type of item:",
+    "choixtype": "Choose a type",
+    "porteclé": "Keychain",
+    "peluche": "Plush",
+    "gourde": "Bottle",
+    "sac": "Bag",
+    "réinitialiser": "Reset",
+    "aucunarticle": "No items match your search.",
+    "àpartirde": "starting from",
+    "réserver": "Book"
+  },
+
+  "achatboutique": {
+    "nom_article": "Item Name",
+    "description_article": "Item Description",
+    "image_alt": "Item Image",
+    "stock_rupture": "This item is out of stock",
+    "stock_disponible": "Number of items in stock:",
+    "quantite_label": "Quantity you want to buy:",
+    "payment_label": "Payment method used:",
+    "payment_argent": "Cash",
+    "payment_fidelite": "Loyalty points",
+    "points_fidelite_dispo": "You have {points} loyalty points",
+    "prix_article": "Item price: {prix} €",
+    "total_prix": "Total: {total} €",
+    "prix_article_point": "Item price: {prix} points",
+    "total_prix_point": "Total: {total} points",
+    "ajouter_panier": "Add to cart",
+    "ajouter_panier_payer": "Add to cart and pay",
+    "panier": "Cart"
+  }
+
+
+}
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.0",
+    "swagger-jsdoc": "^6.2.8",
+    "uuid": "^11.0.5"
+  },
+  "devDependencies": {
+    "crypto-js": "^4.2.0",
+    "swagger-ui-express": "^5.0.1",
+    "validator": "^13.12.0"
+  }
+}
